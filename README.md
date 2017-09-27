@@ -1,3 +1,3 @@
 # gitskills
 
-This is new branch in feature1
+This is a modification in Master.
